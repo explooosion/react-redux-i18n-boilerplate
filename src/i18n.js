@@ -25,7 +25,11 @@ i18n
 
     lng, // get default from cookie
 
+    returnObjects: true, // locale build with object
+
     keySeparator: false, // we do not use keys in form messages.welcome
+
+    fallbackLng: 'US',
 
     interpolation: {
       escapeValue: false, // react already safes from xss
