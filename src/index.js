@@ -3,11 +3,21 @@ import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
+import { ThemeProvider, createGlobalStyle } from 'styled-components';
 import './index.scss';
 import './i18n';
 import reducers from './reducers';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+// eslint-disable-next-line import/no-webpack-loader-syntax
+const theme = require('sass-extract-loader?{"plugins":["sass-extract-js"]}!./scss/_index.scss');
+
+const GlobalStyle = createGlobalStyle`
+  * {
+    box-sizing: border-box;
+  }
+`;
 
 const store = createStore(
   reducers,
@@ -15,9 +25,12 @@ const store = createStore(
 );
 
 ReactDOM.render(
-  <Provider store={store}>
-    <App />
-  </Provider>,
+  <ThemeProvider theme={theme}>
+    <GlobalStyle />
+    <Provider store={store}>
+      <App />
+    </Provider>
+  </ThemeProvider>,
   document.getElementById('root')
 );
 
