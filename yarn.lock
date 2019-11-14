@@ -9898,10 +9898,10 @@ react-flags-select@^1.1.10:
   dependencies:
     prop-types "^15.5.8"
 
-react-i18next@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/react-i18next/-/react-i18next-11.1.0.tgz#94e298e1a115100bebbaa0245921aab69529b956"
-  integrity sha512-FxHNBA6ptW7cygTpbIz5GAN9lrsB89xqgwpD3AzwSB4CDQsd+9i9/Je3Hc3VF6joAb1khFmCUO3ETJFLSrmuwg==
+react-i18next@^11.2.1:
+  version "11.2.1"
+  resolved "https://registry.yarnpkg.com/react-i18next/-/react-i18next-11.2.1.tgz#a56d9f1f52d003eb4fa8f1c7d6752123827160f0"
+  integrity sha512-F9uO4YMNgH5wnPzpyZo2NLaKJM8+JhrXSKUqe0gTRd79mRWVOq+mh/CjYeZuF8Wk+ocoOaJvfwE0lRjlfUNk9w==
   dependencies:
     "@babel/runtime" "^7.3.1"
     html-parse-stringify2 "2.0.1"
@@ -10187,6 +10187,11 @@ redent@^2.0.0:
   dependencies:
     indent-string "^3.0.0"
     strip-indent "^2.0.0"
+
+redux-devtools-extension@^2.13.8:
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/redux-devtools-extension/-/redux-devtools-extension-2.13.8.tgz#37b982688626e5e4993ff87220c9bbb7cd2d96e1"
+  integrity sha512-8qlpooP2QqPtZHQZRhx3x3OP5skEV1py/zUdMY28WNAocbafxdG2tRD1MWE7sp8obGMNYuLWanhhQ7EQvT1FBg==
 
 redux-thunk@^2.3.0:
   version "2.3.0"
