@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94630b3b4a1916b1decee57106f86ad8",
+    "revision": "87297400f637c9a8af8145ce6e9e0a22",
     "url": "/react-redux-i18n-boilerplate/index.html"
   },
   {
-    "revision": "0f07c2f8b8105640c8db",
-    "url": "/react-redux-i18n-boilerplate/static/css/2.d9d1eee2.chunk.css"
+    "revision": "12b916e7ebd9ebe5b0f9",
+    "url": "/react-redux-i18n-boilerplate/static/css/2.9aa2f28a.chunk.css"
   },
   {
-    "revision": "8189b9141a437f38ee3f",
-    "url": "/react-redux-i18n-boilerplate/static/css/main.9a7dea8b.chunk.css"
+    "revision": "969fc3279b3876fe8ab1",
+    "url": "/react-redux-i18n-boilerplate/static/css/main.fe7aef44.chunk.css"
   },
   {
-    "revision": "0f07c2f8b8105640c8db",
-    "url": "/react-redux-i18n-boilerplate/static/js/2.84f4e941.chunk.js"
+    "revision": "12b916e7ebd9ebe5b0f9",
+    "url": "/react-redux-i18n-boilerplate/static/js/2.cfd5452c.chunk.js"
   },
   {
-    "revision": "8189b9141a437f38ee3f",
-    "url": "/react-redux-i18n-boilerplate/static/js/main.445a3a2d.chunk.js"
+    "revision": "969fc3279b3876fe8ab1",
+    "url": "/react-redux-i18n-boilerplate/static/js/main.d2388e2b.chunk.js"
   },
   {
-    "revision": "7a16ffc3554d8ca9dd74",
-    "url": "/react-redux-i18n-boilerplate/static/js/runtime~main.3970e288.js"
+    "revision": "3af313bc29b196636ac9",
+    "url": "/react-redux-i18n-boilerplate/static/js/runtime-main.9c967a67.js"
   },
   {
     "revision": "2f0263e0853b6f2c798368f73ac87cde",

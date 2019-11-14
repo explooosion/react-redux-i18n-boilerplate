@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-redux-i18n-boilerplate/static/css/main.9a7dea8b.chunk.css",
-    "main.js": "/react-redux-i18n-boilerplate/static/js/main.445a3a2d.chunk.js",
-    "main.js.map": "/react-redux-i18n-boilerplate/static/js/main.445a3a2d.chunk.js.map",
-    "runtime~main.js": "/react-redux-i18n-boilerplate/static/js/runtime~main.3970e288.js",
-    "runtime~main.js.map": "/react-redux-i18n-boilerplate/static/js/runtime~main.3970e288.js.map",
-    "static/css/2.d9d1eee2.chunk.css": "/react-redux-i18n-boilerplate/static/css/2.d9d1eee2.chunk.css",
-    "static/js/2.84f4e941.chunk.js": "/react-redux-i18n-boilerplate/static/js/2.84f4e941.chunk.js",
-    "static/js/2.84f4e941.chunk.js.map": "/react-redux-i18n-boilerplate/static/js/2.84f4e941.chunk.js.map",
+    "main.css": "/react-redux-i18n-boilerplate/static/css/main.fe7aef44.chunk.css",
+    "main.js": "/react-redux-i18n-boilerplate/static/js/main.d2388e2b.chunk.js",
+    "main.js.map": "/react-redux-i18n-boilerplate/static/js/main.d2388e2b.chunk.js.map",
+    "runtime-main.js": "/react-redux-i18n-boilerplate/static/js/runtime-main.9c967a67.js",
+    "runtime-main.js.map": "/react-redux-i18n-boilerplate/static/js/runtime-main.9c967a67.js.map",
+    "static/css/2.9aa2f28a.chunk.css": "/react-redux-i18n-boilerplate/static/css/2.9aa2f28a.chunk.css",
+    "static/js/2.cfd5452c.chunk.js": "/react-redux-i18n-boilerplate/static/js/2.cfd5452c.chunk.js",
+    "static/js/2.cfd5452c.chunk.js.map": "/react-redux-i18n-boilerplate/static/js/2.cfd5452c.chunk.js.map",
     "index.html": "/react-redux-i18n-boilerplate/index.html",
-    "precache-manifest.31788286de13694103185228101ce9b5.js": "/react-redux-i18n-boilerplate/precache-manifest.31788286de13694103185228101ce9b5.js",
+    "precache-manifest.643ea0f59f5e951ac6081efd9f55877f.js": "/react-redux-i18n-boilerplate/precache-manifest.643ea0f59f5e951ac6081efd9f55877f.js",
     "service-worker.js": "/react-redux-i18n-boilerplate/service-worker.js",
-    "static/css/2.d9d1eee2.chunk.css.map": "/react-redux-i18n-boilerplate/static/css/2.d9d1eee2.chunk.css.map",
-    "static/css/main.9a7dea8b.chunk.css.map": "/react-redux-i18n-boilerplate/static/css/main.9a7dea8b.chunk.css.map",
+    "static/css/2.9aa2f28a.chunk.css.map": "/react-redux-i18n-boilerplate/static/css/2.9aa2f28a.chunk.css.map",
+    "static/css/main.fe7aef44.chunk.css.map": "/react-redux-i18n-boilerplate/static/css/main.fe7aef44.chunk.css.map",
     "static/media/ad.svg": "/react-redux-i18n-boilerplate/static/media/ad.2f0263e0.svg",
     "static/media/ae.svg": "/react-redux-i18n-boilerplate/static/media/ae.d038b7ed.svg",
     "static/media/af.svg": "/react-redux-i18n-boilerplate/static/media/af.14c45ecc.svg",
@@ -235,5 +235,12 @@
     "static/media/za.svg": "/react-redux-i18n-boilerplate/static/media/za.4b07683a.svg",
     "static/media/zm.svg": "/react-redux-i18n-boilerplate/static/media/zm.acad9df9.svg",
     "static/media/zw.svg": "/react-redux-i18n-boilerplate/static/media/zw.bd54e200.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c967a67.js",
+    "static/css/2.9aa2f28a.chunk.css",
+    "static/js/2.cfd5452c.chunk.js",
+    "static/css/main.fe7aef44.chunk.css",
+    "static/js/main.d2388e2b.chunk.js"
+  ]
 }
